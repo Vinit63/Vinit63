@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width:100%;
+}
+body{
+  background-color:black;
+  color:white;
+  margin:0;
+  padding:0; 
+  }
+
+    header::before{
+       background: url('https://picsum.photos/600/300') no-repeat center center/cover; 
+       content: "";
+       position: absolute;
+       top:0;
+       left: 0;
+       width: 100vw;
+       height:100vh;
+       z-index: -1;
+       opacity: 0.3;
+    }
+section {
+  display:flex;
+  height:340px;
+  font-family: "Bree Serif", serif;
+  flex-direction: column;
+  margin: 3px 20px;
+  align-items: center;
+  justify-content:center;
+
+}
+.navigation {
+  display:flex;
+  font-family: "Bree Serif", serif;
+
+}
+li{
+list-style:none;
+padding: 10px;
+
+}
+
+p{
+  text-align:center;
+}
