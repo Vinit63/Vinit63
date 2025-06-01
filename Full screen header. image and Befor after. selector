@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+ <title>Attribute and nth child psudo selectors</title>
+<link href="style.css" rel="stylesheet" type="text/css"/>   
+</head> 
+<body>
+<header>
+<nav class="navbar">
+<ul class="navigation">
+  <li class="item">Home</li>
+  <li class="item">About</li>
+  <li class="item">Services</li>
+  <li class="item">Contact us</li>
+</ul>
+</nav>
+</header>
+<section>
+  <h1> Welcome to Vinit Coding World</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Aenean sit amet sagittis dolor. Quisque commodo, nulla  velit at lorem.</p>
+</section>
