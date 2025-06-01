@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSS Fonts</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+  <h3>Meesho</h3>
+  <p>Meesho is an online shopping platform that offers a wide range of products from all over the world.</p>
+
+  <ul>
+    <li>Jeans</li>
+    <li>Shirt</li>
+    <li>T-Shirt</li>
+    <li>Lower</li>
+    <li>Etc.</li>
+  </ul>
+
+  <h3>New Stock Available</h3>
+  <ol>
+    <li>Denim Jeans</li>
+    <li>Stretchfit Jeans</li>
+    <li>Chinese T-Shirt & Shirt</li>
+  </ol>
+
+  <h3>Order Now</h3>
+  <div>
+    <input type="text" placeholder="Order Now" />
+  </div>
+
+  <br />
+
+  <div>
+    <input type="button" value="Order Now" />
+  </div>
+
+  <br />
+
+  <div>
+    Are you Eligible?:
+    <input type="checkbox" name="myeligible" />
+  </div>
+
+  <br />
+
+  <div>
+    <input type="submit" value="Login Now" />
+  </div>
+
+  <h4>I'm Vinit and I created this website: Meesho.com</h4>
+
+  <span>Product Details:</span>
+  <a href="https://www.meesho.com" target="_blank">meesho.com</a>
+
+  <hr />
+
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Address</th>
+        <th>Phone</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Vinit</td>
+        <td>Delhi</td>
+        <td>63*********</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h4>This is the first paragraph</h4>
+  <p id="Firstpara">This is a paragraph</p>
+
+</body>
+</html>
