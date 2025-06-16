@@ -1,0 +1,32 @@
+# 🛒 My E-commerce Website
+
+Welcome to my **E-commerce Website Project** inspired by platforms like Meesho!  
+This project is part of my full-stack web development journey.
+
+## 🚀 Features
+
+- User-friendly UI using **HTML, CSS, JavaScript**
+- Product listing page
+- Add to cart functionality
+- Responsive design
+- Clean and modern layout
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Replit (for development)
+- Git & GitHub (for version control)
+
+## 📸 Screenshots
+
+*Coming soon...*
+
+## 📂 Project Structure
+
+```bash
+project-folder/
+│
+├── index.html
+├── style.css
