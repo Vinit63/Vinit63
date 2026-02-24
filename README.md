@@ -1,6 +1,5 @@
 # Hello, I'm [Vinit ] 👋
 Welcome to my GitHub profile! I'm an Aspiring Full Stack Web Developer passionate about building modern web applications.
-
 ## 🚀 Skills & Technologies
 
 - **Programming Languages**:
