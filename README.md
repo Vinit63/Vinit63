@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm an Aspiring Full Stack Web Developer passionat
 ## 🌱 Currently Learning
 
 - **Web Development** (HTML, CSS, JavaScript)
-- **Frontend Libraries**: React (Learning from CodeWithHarry and YouTube)
+- **Frontend Libraries**: React (Learning)
 - **Backend Basics**: Node.js, Express.js (Planning to learn soon)
 
 ## 📈 My GitHub Stats
