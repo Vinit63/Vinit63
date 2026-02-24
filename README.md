@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a beginner **Web Developer** currently learnin
 ## 🚀 Skills & Technologies
 
 - **Programming Languages**:
-  - **C Programming** (Started learning)
+  - **C Programming**
   - **HTML**, **CSS**, **JavaScript** (Currently learning web development)
 - **Web Development**:
   - **Frontend**: HTML, CSS, JavaScript
