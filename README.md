@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm an Aspiring Full Stack Web Developer passionat
 
 - YouTube: [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry) (Learning from here)
 - Replit: [Your Replit Profile](https://replit.com/@vinitsingh63983/Web-devlopment?s=app)(Check out my projects and code)
-- Portfolio: [Your Portfolio:coming soon 🚀
+- Portfolio:coming soon 🚀
 -🖥️Github:[Vinit63](https://github.com/Vinit63)
 ## 🔥 My Latest Projects
 
