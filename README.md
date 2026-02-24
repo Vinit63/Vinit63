@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm an Aspiring Full Stack Web Developer passionat
 
 - **Programming Languages**:
   - **C Programming**
-  - **HTML**, **CSS**, **JavaScript** (Currently learning web development)
+  - **HTML**, **CSS**, **JavaScript** 
 - **Web Development**:
   - **Frontend**: HTML, CSS, JavaScript
   - **Libraries**: React (Learning)
