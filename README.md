@@ -1,5 +1,5 @@
 # Hello, I'm [Vinit ] 👋
-Welcome to my GitHub profile! I'm a beginner **Web Developer** currently learning web development with resources like **YouTube**, **CodeWithHarry**, and **Replit**. I started with **C programming** and have since transitioned to web technologies like **HTML**, **CSS**, and **JavaScript**.
+Welcome to my GitHub profile! I'm an Aspiring Full Stack Web Developer passionate about building modern web applications.
 
 ## 🚀 Skills & Technologies
 
